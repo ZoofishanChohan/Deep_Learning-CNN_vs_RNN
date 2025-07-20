@@ -15,10 +15,3 @@ The notebook explores the process of training CNN and RNN models to classify fas
 ## Conclusion
 
 The conclusion section in the notebook summarizes the findings from the comparison of CNN and RNN models. It highlights the superiority of CNNs over RNNs for image classification tasks, particularly those involving spatial features.
-
-## Repository Information
-
-- Repository Name: [Deep-Learning-CNN-vs-RNN](https://github.com/ZoofishanChohan/Deep_Learning-CNN_vs_RNN)
-- Notebook File: [CNNvsRNN-FMNIST-deep-learning-model.ipynb](https://github.com/ZoofishanChohan/Deep_Learning-CNN_vs_RNN/blob/main/CNNvsRNN-FMNIST-deep-learning-model.ipynb)
-
-Feel free to explore the notebook for detailed insights into the comparison of CNN and RNN architectures for image classification using the Fashion MNIST dataset.
