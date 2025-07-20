@@ -18,7 +18,7 @@ The conclusion section in the notebook summarizes the findings from the comparis
 
 ## Repository Information
 
-- Repository Name: [Deep-Learning-CNN-vs-RNN](https://github.com/zenklinov/Deep-Learning-CNN-vs-RNN)
-- Notebook File: [CNNvsRNN-FMNIST-deep-learning-model.ipynb](https://github.com/zenklinov/Deep-Learning-CNN-vs-RNN/blob/main/CNNvsRNN-FMNIST-deep-learning-model.ipynb)
+- Repository Name: [Deep-Learning-CNN-vs-RNN](https://github.com/ZoofishanChohan/Deep_Learning-CNN_vs_RNN)
+- Notebook File: [CNNvsRNN-FMNIST-deep-learning-model.ipynb](https://github.com/ZoofishanChohan/Deep_Learning-CNN_vs_RNN/blob/main/CNNvsRNN-FMNIST-deep-learning-model.ipynb)
 
 Feel free to explore the notebook for detailed insights into the comparison of CNN and RNN architectures for image classification using the Fashion MNIST dataset.
